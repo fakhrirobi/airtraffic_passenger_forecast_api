@@ -5,3 +5,4 @@ statsmodels==0.12.1
 fastapi==0.70.0
 python_dateutil==2.8.2
 gunicorn==20.1.0
+uvloop==0.16.0
